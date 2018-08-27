@@ -1,0 +1,139 @@
+2018-03-21 17:40:21,905 WARN 9040 [-/127.0.0.1/-/5ms OPTIONS /addUser] nodejs.MethodNotAllowedError: Method Not Allowed
+    at Object.throw (D:\develop\shopProject\egg-bicycleStore\node_modules\koa\lib\context.js:93:11)
+    at notAllow (D:\develop\shopProject\egg-bicycleStore\node_modules\egg-security\lib\middlewares\methodnoallow.js:18:16)
+    at dispatch (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:42:32)
+    at next (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:43:18)
+    at csrf (D:\develop\shopProject\egg-bicycleStore\node_modules\egg-security\lib\middlewares\csrf.js:22:14)
+    at dispatch (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:42:32)
+    at D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:42:32)
+    at next (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:43:18)
+    at session (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-session\index.js:41:13)
+message: 'Method Not Allowed'
+pid: 9040
+hostname: SKY-20170518s
+
+2018-03-22 10:14:18,175 WARN 11772 [-/127.0.0.1/-/5ms OPTIONS /addUser] nodejs.MethodNotAllowedError: Method Not Allowed
+    at Object.throw (D:\develop\shopProject\egg-bicycleStore\node_modules\koa\lib\context.js:93:11)
+    at notAllow (D:\develop\shopProject\egg-bicycleStore\node_modules\egg-security\lib\middlewares\methodnoallow.js:18:16)
+    at dispatch (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:42:32)
+    at next (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:43:18)
+    at csrf (D:\develop\shopProject\egg-bicycleStore\node_modules\egg-security\lib\middlewares\csrf.js:22:14)
+    at dispatch (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:42:32)
+    at D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:42:32)
+    at next (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:43:18)
+    at session (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-session\index.js:41:13)
+message: 'Method Not Allowed'
+pid: 11772
+hostname: SKY-20170518s
+
+2018-03-22 10:38:45,168 WARN 11772 [-/127.0.0.1/-/1ms OPTIONS /addUser] nodejs.MethodNotAllowedError: Method Not Allowed
+    at Object.throw (D:\develop\shopProject\egg-bicycleStore\node_modules\koa\lib\context.js:93:11)
+    at notAllow (D:\develop\shopProject\egg-bicycleStore\node_modules\egg-security\lib\middlewares\methodnoallow.js:18:16)
+    at dispatch (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:42:32)
+    at next (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:43:18)
+    at csrf (D:\develop\shopProject\egg-bicycleStore\node_modules\egg-security\lib\middlewares\csrf.js:22:14)
+    at dispatch (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:42:32)
+    at D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:42:32)
+    at next (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:43:18)
+    at session (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-session\index.js:41:13)
+message: 'Method Not Allowed'
+pid: 11772
+hostname: SKY-20170518s
+
+2018-03-22 10:38:46,413 WARN 11772 [-/127.0.0.1/-/0ms OPTIONS /addUser] nodejs.MethodNotAllowedError: Method Not Allowed
+    at Object.throw (D:\develop\shopProject\egg-bicycleStore\node_modules\koa\lib\context.js:93:11)
+    at notAllow (D:\develop\shopProject\egg-bicycleStore\node_modules\egg-security\lib\middlewares\methodnoallow.js:18:16)
+    at dispatch (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:42:32)
+    at next (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:43:18)
+    at csrf (D:\develop\shopProject\egg-bicycleStore\node_modules\egg-security\lib\middlewares\csrf.js:22:14)
+    at dispatch (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:42:32)
+    at D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:42:32)
+    at next (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:43:18)
+    at session (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-session\index.js:41:13)
+message: 'Method Not Allowed'
+pid: 11772
+hostname: SKY-20170518s
+
+2018-03-22 10:38:51,446 WARN 11772 [-/127.0.0.1/-/10ms OPTIONS /addUser] nodejs.MethodNotAllowedError: Method Not Allowed
+    at Object.throw (D:\develop\shopProject\egg-bicycleStore\node_modules\koa\lib\context.js:93:11)
+    at notAllow (D:\develop\shopProject\egg-bicycleStore\node_modules\egg-security\lib\middlewares\methodnoallow.js:18:16)
+    at dispatch (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:42:32)
+    at next (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:43:18)
+    at csrf (D:\develop\shopProject\egg-bicycleStore\node_modules\egg-security\lib\middlewares\csrf.js:22:14)
+    at dispatch (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:42:32)
+    at D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:42:32)
+    at next (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:43:18)
+    at session (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-session\index.js:41:13)
+message: 'Method Not Allowed'
+pid: 11772
+hostname: SKY-20170518s
+
+2018-03-22 11:24:37,746 WARN 11736 [-/127.0.0.1/-/44ms POST /addUser] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2018-03-22 11:24:37,748 WARN 11736 [-/127.0.0.1/-/45ms POST /addUser] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (D:\develop\shopProject\egg-bicycleStore\node_modules\koa\lib\context.js:93:11)
+    at Object.assertCsrf (D:\develop\shopProject\egg-bicycleStore\node_modules\egg-security\app\extend\context.js:148:17)
+    at csrf (D:\develop\shopProject\egg-bicycleStore\node_modules\egg-security\lib\middlewares\csrf.js:31:9)
+    at dispatch (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:42:32)
+    at D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:42:32)
+    at next (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:43:18)
+    at session (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-session\index.js:41:13)
+    at dispatch (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:42:32)
+    at next (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:43:18)
+message: 'invalid csrf token'
+pid: 11736
+hostname: SKY-20170518s
+
+2018-03-22 11:27:06,772 WARN 11736 [-/127.0.0.1/-/3ms POST /addUser] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2018-03-22 11:27:06,773 WARN 11736 [-/127.0.0.1/-/4ms POST /addUser] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (D:\develop\shopProject\egg-bicycleStore\node_modules\koa\lib\context.js:93:11)
+    at Object.assertCsrf (D:\develop\shopProject\egg-bicycleStore\node_modules\egg-security\app\extend\context.js:148:17)
+    at csrf (D:\develop\shopProject\egg-bicycleStore\node_modules\egg-security\lib\middlewares\csrf.js:31:9)
+    at dispatch (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:42:32)
+    at D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:42:32)
+    at next (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:43:18)
+    at session (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-session\index.js:41:13)
+    at dispatch (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:42:32)
+    at next (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:43:18)
+message: 'invalid csrf token'
+pid: 11736
+hostname: SKY-20170518s
+
+2018-03-22 11:30:55,606 WARN 11736 [-/127.0.0.1/-/1ms POST /api/addUser] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2018-03-22 11:30:55,607 WARN 11736 [-/127.0.0.1/-/2ms POST /api/addUser] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (D:\develop\shopProject\egg-bicycleStore\node_modules\koa\lib\context.js:93:11)
+    at Object.assertCsrf (D:\develop\shopProject\egg-bicycleStore\node_modules\egg-security\app\extend\context.js:148:17)
+    at csrf (D:\develop\shopProject\egg-bicycleStore\node_modules\egg-security\lib\middlewares\csrf.js:31:9)
+    at dispatch (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:42:32)
+    at D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:42:32)
+    at next (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:43:18)
+    at session (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-session\index.js:41:13)
+    at dispatch (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:42:32)
+    at next (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:43:18)
+message: 'invalid csrf token'
+pid: 11736
+hostname: SKY-20170518s
+
+2018-03-22 11:31:30,227 WARN 11736 [-/127.0.0.1/-/1ms POST /api/addUser] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2018-03-22 11:31:30,228 WARN 11736 [-/127.0.0.1/-/2ms POST /api/addUser] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (D:\develop\shopProject\egg-bicycleStore\node_modules\koa\lib\context.js:93:11)
+    at Object.assertCsrf (D:\develop\shopProject\egg-bicycleStore\node_modules\egg-security\app\extend\context.js:148:17)
+    at csrf (D:\develop\shopProject\egg-bicycleStore\node_modules\egg-security\lib\middlewares\csrf.js:31:9)
+    at dispatch (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:42:32)
+    at D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:42:32)
+    at next (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:43:18)
+    at session (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-session\index.js:41:13)
+    at dispatch (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:42:32)
+    at next (D:\develop\shopProject\egg-bicycleStore\node_modules\koa-compose\index.js:43:18)
+message: 'invalid csrf token'
+pid: 11736
+hostname: SKY-20170518s
+
